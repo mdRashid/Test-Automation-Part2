@@ -1,0 +1,5 @@
+dataToSearch\ItemsToBeSearched.class
+methods\CommonMethods.class
+pageFactory\LogInInfo.class
+pageFactory\SearchItems.class
+pageFactory\SearchObjects.class

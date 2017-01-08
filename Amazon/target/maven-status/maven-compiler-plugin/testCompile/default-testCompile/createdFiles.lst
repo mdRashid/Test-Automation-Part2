@@ -1,0 +1,8 @@
+page\TestHomePage.class
+LogIn\AmazonLogIn.class
+searchItems\AdWeb.class
+LogIn\JDBCConnection.class
+LogIn\ULogIn.class
+searchItems\AddToList.class
+searchItems\Items.class
+searchItems\OptionSearch.class
